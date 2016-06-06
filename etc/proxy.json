@@ -1,0 +1,12 @@
+{
+  "rabbitmq_vhost": "xxx", 
+  "broker": "amqp://xxxx:xxxx@xxxx:5672/xxx", 
+  "queue_username": "xxx|base64", 
+  "rabbitmq_host": "xx.xx.xx.xx",
+  "rabbitmq_ssl": false, 
+  "rabbitmq_port": 5672, 
+  "queue_password": "xxx", 
+  "rabbitmq_up_exchange": "channel_up", 
+  "rabbitmq_up_queue": "channel_up",
+  "backend": "amqp"
+}
